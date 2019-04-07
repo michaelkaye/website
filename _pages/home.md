@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/splash.jpg
 excerpt: "Excerpt words here"
 feature_row:
-  - image_path: assets/images/tech.jpg
+  - image_path: /assets/images/tech.jpg
     alt: "circuit boards"
     title: "Custom electronic test equipment"
     excerpt: "Paul sells electronic test equipment on tindie"
@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/framing.jpg
     alt: "framing"
     excerpt: "Michael sells framing services"
-    url: "framing"
+    url: "/framing"
     btn_label: "Find Out More"
     btn_class: "btn--primary"
 feature_row2:
@@ -27,14 +27,14 @@ feature_row2:
     alt: "room card and print mounts"
     title: "Convention framing"
     excerpt: 'Mount your room cards or sponsor prints'
-    url: "framing"
+    url: "/framing"
     btn_label: "Find Out More"
     btn_class: "btn--primary"
   - image_path: /assets/images/custom_lighting.jpg
     alt: "Embedded lighting"
     title: "Embedded lighting"
     excerpt: "Embedded lighting in costumes"
-    url: "embedded"
+    url: "/embedded"
     btn_label: "Find Out More"
     btn_class: "btn--primary"
 
