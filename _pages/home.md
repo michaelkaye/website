@@ -15,7 +15,7 @@ feature_row:
     excerpt: "Paul sells electronic test equipment on tindie"
     btn_label: "Tindie Store"
     btn_class: "btn--primary"
-    url: https://www.tindie.com/stores/leonerd/
+    url: "https://www.tindie.com/stores/leonerd/"
   - image_path: /assets/images/framing.jpg
     alt: "framing"
     excerpt: "Michael sells framing services"
