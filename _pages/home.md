@@ -34,7 +34,7 @@ feature_row2:
     alt: "Embedded lighting"
     title: "Embedded lighting"
     excerpt: "Embedded lighting in costumes"
-    url: "embe"dded
+    url: "embedded"
     btn_label: "Find Out More"
     btn_class: "btn--primary"
 
